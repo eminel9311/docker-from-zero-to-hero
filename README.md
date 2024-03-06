@@ -1,8 +1,3 @@
-<a href="https://inovationthinking.blogspot.com/">
-  <img align="right" src="https://inovationthinking.blogspot.com/" alt="Profile visitor" />
-</a>
-
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
