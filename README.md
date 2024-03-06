@@ -1,5 +1,5 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://inovationthinking.blogspot.com/">
+  <img align="right" src="https://inovationthinking.blogspot.com/" alt="Profile visitor" />
 </a>
 
 
